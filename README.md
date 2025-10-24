@@ -1,4 +1,4 @@
-# pereira_pablo_tp2
+# pereira_pablo_tp3
 Voici les documents du jeu 2D qui est mon tp3 dans le cours d'intéractivité ludique. 
 Ou l'on doit ajouter un HUD
 
